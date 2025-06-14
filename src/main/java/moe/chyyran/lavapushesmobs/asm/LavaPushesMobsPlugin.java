@@ -1,7 +1,7 @@
 package moe.chyyran.lavapushesmobs.asm;
 
+import com.google.common.collect.ImmutableList;
 import net.minecraftforge.fml.relauncher.IFMLLoadingPlugin;
-import org.spongepowered.include.com.google.common.collect.ImmutableList;
 import zone.rong.mixinbooter.IEarlyMixinLoader;
 
 import javax.annotation.Nullable;
