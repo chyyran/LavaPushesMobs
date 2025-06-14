@@ -8,7 +8,8 @@ import org.apache.logging.log4j.Logger;
 @Mod(
 	modid = LavaPushesMobsMod.MODID,
 	name = LavaPushesMobsMod.NAME,
-	version = LavaPushesMobsMod.VERSION
+	version = LavaPushesMobsMod.VERSION,
+	acceptableRemoteVersions = "*"
 )
 public class LavaPushesMobsMod {
 	public static final String MODID = "lavapushesmobs";
